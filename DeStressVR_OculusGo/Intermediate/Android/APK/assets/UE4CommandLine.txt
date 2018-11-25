@@ -1,0 +1,1 @@
+../../../DeStressVR_OculusGo/DeStressVR_OculusGo.uproject  /Game/Level_Main -Messaging -SessionId=A25BD45746212C5C1F05308EA6BB9057 -SessionOwner="jameskwonlee" -SessionName="Launch On Device" -iterative
